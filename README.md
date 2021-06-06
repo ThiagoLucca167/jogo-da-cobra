@@ -1,2 +1,3 @@
 # jogo-da-cobra
-jogo da cobrinha javascript
+desenvolvimento java script jogo da cobrinha
+
